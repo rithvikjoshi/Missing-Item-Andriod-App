@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76441668999",
+    "firebase_url": "https://missingitem-bms-default-rtdb.firebaseio.com",
+    "project_id": "missingitem-bms",
+    "storage_bucket": "missingitem-bms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76441668999:android:674eaecf85384a663f9722",
+        "android_client_info": {
+          "package_name": "com.example.lostandfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76441668999-juv20asmscq0uqvtdg98lm2gnn55vrso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCboVFJPWp4fRv6HbpF2iatnX7YV4MZv-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76441668999-juv20asmscq0uqvtdg98lm2gnn55vrso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
